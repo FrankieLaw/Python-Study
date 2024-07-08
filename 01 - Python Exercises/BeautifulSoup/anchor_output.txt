@@ -1,0 +1,442 @@
+<a class="nav-menu__link" data-ev-action="Search Menu Click" data-ev-cat="Navigation" data-ev-label="Search Menu Click [Desktop NavBar]" href="/search.cfm" id="MM_search">Search</a>
+<a class="nav-menu__link" data-ev-action="Study Menu Click" data-ev-cat="Navigation" data-ev-label="Study Menu Click [Desktop NavBar]" href="/study.cfm" id="MM_study">Study</a>
+<a class="nav-menu__link" data-ev-action="Devotionals Menu Click" data-ev-cat="Navigation" data-ev-label="Devotionals Menu Click [Desktop NavBar]" href="/devotionals/" id="MM_devotions">Devotionals</a>
+<a class="nav-menu__link" data-ev-action="Help Menu Click" data-ev-cat="Navigation" data-ev-label="Help Menu Click [Desktop NavBar]" href="/help.cfm" id="MM_help">Help</a>
+<a class="nav-menu__link" data-ev-action="Apps-Tools Menu Click" data-ev-cat="Navigation" data-ev-label="Products Menu Click [Desktop NavBar]" href="/apps-tools.cfm" id="MM_apps">Apps &amp;
+					Tools</a>
+<a class="nav-menu__link" data-ev-action="Ministries Menu Click" data-ev-cat="Navigation" data-ev-label="Ministries Menu Click [Desktop NavBar]" href="/ministries.cfm" id="MM_ministry">Ministries</a>
+<a class="nav-menu__link" data-ev-action="About Menu Click" data-ev-cat="Navigation" data-ev-label="About Menu Click [Desktop NavBar]" href="/about/" id="MM_about">About</a>
+<a class="nav-menu__link" data-ev-action="Donate Menu Click" data-ev-cat="Navigation" data-ev-label="Donate Menu Click [Desktop NavBar]" href="/donate/" id="MM_donations" target="_blank">Donate</a>
+<a rel="helps.searchPrime"> [?]</a>
+<a id="clearAnchorMenu">Clear
+																	Advanced Options</a>
+<a rel="helps.searchLex"> [?]</a>
+<a rel="helps.searchFaq"> [?]</a>
+<a href="/search/dictionary/viewentries.cfm?letter=a">a</a>
+<a href="/search/dictionary/viewentries.cfm?letter=b">b</a>
+<a href="/search/dictionary/viewentries.cfm?letter=c">c</a>
+<a href="/search/dictionary/viewentries.cfm?letter=d">d</a>
+<a href="/search/dictionary/viewentries.cfm?letter=e">e</a>
+<a href="/search/dictionary/viewentries.cfm?letter=f">f</a>
+<a href="/search/dictionary/viewentries.cfm?letter=g">g</a>
+<a href="/search/dictionary/viewentries.cfm?letter=h">h</a>
+<a href="/search/dictionary/viewentries.cfm?letter=i">i</a>
+<a href="/search/dictionary/viewentries.cfm?letter=j">j</a>
+<a href="/search/dictionary/viewentries.cfm?letter=k">k</a>
+<a href="/search/dictionary/viewentries.cfm?letter=l">l</a>
+<a href="/search/dictionary/viewentries.cfm?letter=m">m</a>
+<a href="/search/dictionary/viewentries.cfm?letter=n">n</a>
+<a href="/search/dictionary/viewentries.cfm?letter=o">o</a>
+<a href="/search/dictionary/viewentries.cfm?letter=p">p</a>
+<a href="/search/dictionary/viewentries.cfm?letter=q">q</a>
+<a href="/search/dictionary/viewentries.cfm?letter=r">r</a>
+<a href="/search/dictionary/viewentries.cfm?letter=s">s</a>
+<a href="/search/dictionary/viewentries.cfm?letter=t">t</a>
+<a href="/search/dictionary/viewentries.cfm?letter=u">u</a>
+<a href="/search/dictionary/viewentries.cfm?letter=v">v</a>
+<a href="/search/dictionary/viewentries.cfm?letter=w">w</a>
+<a href="/search/dictionary/viewentries.cfm?letter=x">x</a>
+<a href="/search/dictionary/viewentries.cfm?letter=y">y</a>
+<a href="/search/dictionary/viewentries.cfm?letter=z">z</a>
+<a data-ev-action="Search Menu Item" data-ev-cat="Navigation" data-ev-label="[Banner] Are you searching for God?" href="/faq/knowgod.cfm"><img alt="Are you searching for God? (click to read)" class="noSwap hoverHue325" src="/assets-v3/images/menu/areYou01_a.png"/></a>
+<a href="/commentaries/">Text Commentaries</a>
+<a href="/audio_video/">Audio &amp; Video Commentaries</a>
+<a href="/study/harmony/index.cfm">Harmony of the Gospels</a>
+<a href="/search/Dictionary/viewEntries.cfm">Encyclopedias / Dictionaries</a>
+<a href="/resources/study-notes.cfm">Bible Study Notes</a>
+<a href="/resources/prefaces.cfm">Prefaces</a>
+<a href="/resources/intros.cfm">Introductions to the Bible</a>
+<a href="/resources/charts.cfm">Charts and Outlines</a>
+<a href="/resources/timelines.cfm">Timelines</a>
+<a href="/images/">Maps / Images</a>
+<a href="/resources/biblical-languages.cfm">Biblical Language
+									Resources</a>
+<a href="/tools/interlinear/tr/jhn/1/1-51/">Inline Interlinear</a>
+<a href="/resources/tools/index.cfm">Language Tools</a>
+<a href="/resources/lexical/index.cfm">Lexical Resources</a>
+<a href="/resources/grammars.cfm">Grammars</a>
+<a href="/resources/concordances/index.cfm">Concordances</a>
+<a href="/resources/morphology/index.cfm">Morphology</a>
+<a href="https://study.bible/" target="_blank">BLB Institute
+												<i>(Free)</i></a>
+<a href="/spanish" target="_blank">Spanish (Español) Resources</a>
+<a href="/resources/articles.cfm">Articles / Books</a>
+<a href="/wm/">Women's Resources</a>
+<a href="/faq/don_stewart/">Don Stewart FAQs</a>
+<a href="/faq/">BLB Theological FAQs</a>
+<a href="/resources/missions.cfm">Missions Resources</a>
+<a href="/resources/cults.cfm">Cult Resources</a>
+<a href="/study/ccc/index.cfm">Creeds, Catechisms, and Confessions</a>
+<a href="/study/hta/">Hitchcock's Topical Analysis</a>
+<a href="/study/thompson/specread.cfm">Thompson's Chain Reference</a>
+<a href="/study/misc/name_god.cfm">The Names of God</a>
+<a href="/study/misc/ogiwa.cfm">Our God Is… We Are…</a>
+<a href="/study/misc/putoffon.cfm">Put Off… Put On…</a>
+<a href="/resources/media.cfm">Media</a>
+<a href="/resources/music.cfm">Music</a>
+<a href="/resources/livestreams/">Livestreams</a>
+<a href="https://study.bible/courseList" id="blbi-callout-container" target="_blank">
+<div>
+<img alt="BLBi Logo" class="blbi-logo" src="/assets-v3/images/blbi/blbi-logo_white-text-full.svg" width="200"/>
+</div>
+<div class="blbi-right-container">
+<div class="blbi-right-text">
+<h4>Free Bible Courses on Christian Belief &amp; Practice</h4>
+</div>
+<div>
+<button class="blbi-cta">Browse Courses</button>
+</div>
+</div>
+</a>
+<a href="/devotionals/dbdbg/">Day by Day by Grace</a>
+<a href="/devotionals/dbdbg/view.cfm">Today's Reading</a>
+<a href="/devotionals/dbdbg/scriptureIndex.cfm">Scripture Index</a>
+<a href="/devotionals/dbdbg/dateIndex.cfm">Date Index</a>
+<a href="/devotionals/me/">Morning and Evening</a>
+<a href="/devotionals/me/view.cfm?Time=am">This Morning's Reading</a>
+<a href="/devotionals/me/view.cfm?Time=pm">This Evening's Reading</a>
+<a href="/devotionals/me/scriptureIndex.cfm">Scripture Index</a>
+<a href="/devotionals/me/dateIndex.cfm">Date Index</a>
+<a href="/devotionals/promises/">BLB Daily Promises</a>
+<a href="/devotionals/promises/view.cfm">Today's Reading</a>
+<a href="/devotionals/promises/scriptureIndex.cfm">Scripture Index</a>
+<a href="/devotionals/promises/dateIndex.cfm">Date Index</a>
+<a href="/devotionals/faiths-checkbook/">Faith's Checkbook</a>
+<a href="/devotionals/faiths-checkbook/view.cfm">Today's Reading</a>
+<a href="/devotionals/faiths-checkbook/scriptureIndex.cfm">Scripture Index</a>
+<a href="/devotionals/faiths-checkbook/dateIndex.cfm">Date Index</a>
+<a href="/dailyreading/">Bible Reading</a>
+<a href="/dailyreading/generic.cfm">Today's Reading</a>
+<a href="/dailyreading/">Daily Bible Reading Program</a>
+<a href="/help/videoHelps.cfm#section1">Quickstart Guide</a>
+<a href="/help/videoHelps.cfm#section2">Essentials - The Bible</a>
+<a href="/help/videoHelps.cfm#section3">Essentials - <br/>Word Searching</a>
+<a href="/help/videoHelps.cfm#section4">Customization</a>
+<a href="/help/videoHelps.cfm#section5">Advanced BLB</a>
+<a href="/help/index.cfm#getStarted">How to get started</a>
+<a href="/help/index.cfm#bibleTools">How to use the Bible Tools</a>
+<a href="/help/index.cfm#searchTools">How to use the Search Tools</a>
+<a href="/help/index.cfm#miscellaneous">Miscellaneous</a>
+<a href="/contact/contact_iapp.cfm">Apple iOS App Support</a>
+<a href="/contact/contact_android.cfm">Android App Support</a>
+<a href="https://study.bible/help">BLB Institute Support</a>
+<a href="/contact/contact_donor.cfm">Donor Support</a>
+<a href="/contact/contact_pc.cfm">Website Questions</a>
+<a href="/contact/contact_gen.cfm">General Questions</a>
+<a href="/contact/contact_theo.cfm">Theological Questions</a>
+<a href="/tools/redirect.cfm?Site=https%3A%2F%2Fitunes%2Eapple%2Ecom%2Fus%2Fapp%2Fblue%2Dletter%2Dbible%2Fid365547505%3Fmt%3D8" target="_blank"><img alt="Visit Apple iOS App Store" class="app-stores text-center" src="/assets-v3/images/products/ios-appstore.svg"/></a>
+<a href="/tools/redirect.cfm?Site=https%3A%2F%2Fplay%2Egoogle%2Ecom%2Fstore%2Fapps%2Fdetails%3Fid%3Dorg%2Eblueletterbible%2Eblb" target="_blank"><img alt="Visit Google Play Store" class="app-stores text-center" src="/assets-v3/images/products/google-play.svg"/></a>
+<a href="/smark/"><img alt="ScriptureMark Logo" class="marketing-image float-center" src="/assets-v3/images/products/sm-logo_no-tag.svg"/></a>
+<a class="product__btn product__btn-righticon" href="/smark/" target="_blank">Visit
+								<svg class="product__icon-arrow" enable-background="new 0 0 26 26" viewbox="0 0 26 26" xmlns="http://www.w3.org/2000/svg">
+<path d="m5.6 24.2v-22.4c0-1.6 1.9-2.3 3-1.2l11.2 11.2c.7.7.7 1.8 0 2.5l-11.2 11.2c-1.1 1.1-3 .3-3-1.3z"></path>
+</svg>
+</a>
+<a href="https://study.bible/" target="_blank"><img alt="BLBi Logo" class="blbi-logo-feature float-center" src="/assets-v3/images/blbi/blbi-logo.svg"/></a>
+<a class="product__btn product__btn-righticon" href="https://study.bible/" target="_blank">Visit
+								<svg class="product__icon-arrow" enable-background="new 0 0 26 26" viewbox="0 0 26 26" xmlns="http://www.w3.org/2000/svg">
+<path d="m5.6 24.2v-22.4c0-1.6 1.9-2.3 3-1.2l11.2 11.2c.7.7.7 1.8 0 2.5l-11.2 11.2c-1.1 1.1-3 .3-3-1.3z"></path>
+</svg>
+</a>
+<a href="/tools/redirect.cfm?Site=https%3A%2F%2Fitunes%2Eapple%2Ecom%2Fus%2Fapp%2Fblue%2Dletter%2Dbible%2Fid365547505%3Fmt%3D8" target="_blank">Apple iOS</a>
+<a href="/tools/redirect.cfm?Site=https%3A%2F%2Fplay%2Egoogle%2Ecom%2Fstore%2Fapps%2Fdetails%3Fid%3Dorg%2Eblueletterbible%2Eblb" target="_blank">Google Android</a>
+<a href="/smark/">ScriptureMark</a>
+<a href="https://study.bible/">BLB Institute <i>(Free)</i></a>
+<a href="/products/blbSocial.cfm">Sharable Social Images</a>
+<a href="/webtools/BLB_ScriptTagger.cfm">BLB ScriptTagger</a>
+<a href="/webtools/BLB_websearch.cfm">BLB Web Search Tool</a>
+<a href="https://blogs.blueletterbible.org/blb/" target="_blank">BLB Blog</a>
+<a href="/cd/info.cfm">BLB CD</a>
+<a href="/products/digital.cfm">Digital Books</a>
+<a href="/products/videodownloads.cfm">Digital Videos</a>
+<a href="https://study.bible/" target="_blank"><img alt="Visit the BLB Institute" class="noSwap hoverHue150 ministry-highlight" src="/assets-v3/images/menu/menuMin_blbi_a.jpg" style="margin-bottom: 10px; border-radius: 5px;"/></a>
+<a href="https://blogs.blueletterbible.org/"><img alt="Visit the BLB Blog" class="noSwap hoverHue150 ministry-highlight" src="/assets-v3/images/menu/menuMin_blbBlog_a.jpg" style="border-radius: 5px;"/></a>
+<a href="http://sowingcircle.org">Sowing Circle</a>
+<a href="/ministry/links.cfm">Outside Ministry Links</a>
+<a href="/about/about.cfm">About BLB</a>
+<a href="/about/faith.cfm">Statement of Faith</a>
+<a href="/about/history.cfm">History of BLB</a>
+<a href="/about/faqs.cfm">Ministry FAQs</a>
+<a href="/livemap/">LiveMap</a>
+<a href="/newsletter/">Newsletter</a>
+<a href="/about/partnership.cfm">Advertise with Us</a>
+<a href="/about/permissions.cfm">Permissions</a>
+<a href="/about/yourstory.cfm">Share Your BLB Story</a>
+<a href="/contact/">Contact</a>
+<a data-ev-action="About Menu Item" data-ev-cat="Navigation" data-ev-label="[Banner] How to know God" href="/faq/knowgod.cfm" style="padding:15px 0 15px 9px;"><img alt="How to Know God? (click to read)" class="noSwap hoverHue325" src="/assets-v3/images/menu/knowGod01_a.png"/></a>
+<a href="/donate" target="_blank">Credit Card</a>
+<a href="/donate" target="_blank">PayPal</a>
+<a href="/donate" target="_blank">Venmo</a>
+<a href="/donate/mail.cfm">Mail-In</a>
+<a href="/donate/contribute.cfm">All Gift Options</a>
+<a href="https://account.raisedonors.com/blueletterbible/login" target="_blank">Donor Portal
+										Login</a>
+<a href="/donorinfo/">Our Funding Model</a>
+<a href="/contact/contact_donor.cfm">Support &amp; FAQs</a>
+<a href="/RaiseDonors/index.cfm">RaiseDonors Information</a>
+<a rel="index.homeLogin">LOGIN</a>
+<a href="/userPrefs/userPrefs.cfm" id="homeGear" title="Your User Settings"><img alt="Your User Settings" src="/assets-v3/images/homeGear02_a.png"/></a>
+<a class="nav-logo__stacked" href="/"><img alt="Blue Letter Bible" src="/assets-v3/images/BLB_color_stacked.svg"/></a>
+<a class="nav-logo__horiz" href="/"><img alt="Blue Letter Bible" src="/assets-v3/images/BLB_color_horiz.svg"/></a>
+<a class="nav-logo__icon" href="/"><img alt="Blue Letter Bible" src="/assets-v3/images/BLB_color_icononly.svg"/></a>
+<a class="nav-link" data-ev-action="Search Menu Click" data-ev-cat="Navigation" data-ev-label="Search Menu Click [Mobile Menu]" href="/search.cfm">Search</a>
+<a class="nav-link" data-ev-action="Study Menu Click" data-ev-cat="Navigation" data-ev-label="Study Menu Click [Mobile Menu]" href="/study.cfm">Study</a>
+<a class="nav-link" data-ev-action="Devotionals Menu Click" data-ev-cat="Navigation" data-ev-label="Devotionals Menu Click [Mobile Menu]" href="/devotionals/">Devotionals</a>
+<a class="nav-link" data-ev-action="Help Menu Click" data-ev-cat="Navigation" data-ev-label="Help Menu Click [Mobile Menu]" href="/help.cfm">Help</a>
+<a class="nav-link" data-ev-action="Products Menu Click" data-ev-cat="Navigation" data-ev-label="Products Menu Click [Mobile Menu]" href="/apps-tools.cfm">Apps &amp; Tools</a>
+<a class="nav-link" data-ev-action="Ministries Menu Click" data-ev-cat="Navigation" data-ev-label="Ministries Menu Click [Mobile Menu]" href="/ministries.cfm">Ministries</a>
+<a class="nav-link" data-ev-action="About Menu Click" data-ev-cat="Navigation" data-ev-label="About Menu Click [Mobile Menu]" href="/about/">About</a>
+<a class="nav-link" data-ev-action="Donate Menu Click" data-ev-cat="Navigation" data-ev-label="Donate Menu Click [Mobile Menu]" href="/donate/" target="_blank">Donate</a>
+<a rel="index.homeLogin">Login</a>
+<a class="nav-link" href="/userPrefs/userPrefs.cfm" id="homeGear_Resp">Preferences</a>
+<a data-ev-cat="offsiteLink" href="https://www.facebook.com/blueletterbible" target="_blank"><img alt="Facebook" height="30" src="/assets-v3/images/svg/social/fb-icon_wte_a.svg" width="30"/></a>
+<a data-ev-cat="offsiteLink" href="https://x.com/blueletterbible" target="_blank"><img alt="X" height="30" src="/assets-v3/images/svg/social/x-icon_wte_a.svg" width="30"/></a>
+<a data-ev-cat="offsiteLink" href="https://www.instagram.com/blueletterbible/" target="_blank"><img alt="Instagram" height="30" src="/assets-v3/images/svg/social/instagram-icon_wte_a.svg" width="30"/></a>
+<a data-ev-cat="offsiteLink" href="https://www.youtube.com/channel/UCGF1fDwSyXL0VqtiEzLeB5g" target="_blank"><img alt="YouTube" height="30" src="/assets-v3/images/svg/social/youtube-icon_wte_a.svg" width="30"/></a>
+<a class="js-nav-verse-trigger" title="Your Bible Version is the KJV">
+<h3 class="nav-verse-switcher__translation">KJV</h3>
+<span class="nav-verse-switcher__helper">Tap to Change</span>
+</a>
+<a href="/jhn/3/16/s_1000016" id="jhn_3_16_">John 3:16</a>
+<a href="/search/search.cfm?Criteria=Jesus+faith+love" id="jesus_faith_love_">Jesus faith love</a>
+<a data-ev-action="Help Click [Mobile]" data-ev-cat="AppBar" data-ev-label="Help Popup [Mobile]" id="searchHelps01_Resp">Help</a>
+<a data-ev-action="QuickNav Click [Mobile]" data-ev-cat="AppBar" data-ev-label="QuickNav Popup [Mobile]" id="appBarQN_Resp">Quick Nav</a>
+<a data-ev-action="Context Bar Adv. Options Click [Mobile]" data-ev-cat="Bible" data-ev-label="Context Bar Adv. Options Click [Mobile]" id="appBarAO_Resp"><span class="verbose_Resp">Advanced
+						</span>Options</a>
+<a id="clearAppBarAnchorMenu_Resp">Clear Advanced Options</a>
+<a alt="Click for Help">Help</a>
+<a alt="Click for QuickNav">QuickNav</a>
+<a alt="Click for Advanced Options">Advanced Options</a>
+<a alt="Click To Change Layout">View</a>
+<a id="clearHomeAnchorMenu">Clear Advanced
+									Options</a>
+<a alt="Search for John 3:16" data-ev-action="Search Example [John 3:16] Click" data-ev-cat="Home" data-ev-label="Search the Bible Example [John 3:16] Click" href="/kjv/john/3/16/" id="jhn_3_16">John 3:16</a>
+<a alt="Search for Jesus Faith Love" data-ev-action="Search Example [Jesus faith love] Click" data-ev-cat="Home" data-ev-label="Search the Bible Example [Jesus faith love] Click" href="/search/preSearch.cfm?Criteria=Jesus+faith+love" id="jesus_faith_love">Jesus faith love</a>
+<a alt="Search for God of my salvation" data-ev-action="Search Example [God of my salvation] Click" data-ev-cat="Home" data-ev-label="Search the Bible Example [God of my salvation] Click" href="/search/preSearch.cfm?Criteria=%22God+of+my+salvation%22" id="god_of_my_salvation">"God of my salvation"</a>
+<a class="donation-banner solid-primary bg-a2" data-ev-action="[CLICK] Home Banner A" data-ev-cat="Appeal" data-ev-label="[CLICK] Home Banner A2" href="/donate/index.cfm?cid=homebanner-a2" target="_blank">
+<img alt="BLB Icon" class="banner-icon give-icon" height="130" src="/assets-v3/images/banners/give-icon.svg" width="130"/>
+<div class="text-group">
+<h2>BLB Depends on God's Provision Through You</h2>
+<div class="pure-button fuller-button more-pad blue btn-a2">Partner with Us</div>
+</div>
+<div class="banner-close">
+<svg aria-hidden="true" class="svg-inline--fa fa-times fa-w-10 close-icon" data-icon="times" data-prefix="fal" focusable="false" height="20" role="img" viewbox="0 0 320 512" width="20" xmlns="http://www.w3.org/2000/svg">
+<path d="M193.94 256L296.5 153.44l21.15-21.15c3.12-3.12 3.12-8.19 0-11.31l-22.63-22.63c-3.12-3.12-8.19-3.12-11.31 0L160 222.06 36.29 98.34c-3.12-3.12-8.19-3.12-11.31 0L2.34 120.97c-3.12 3.12-3.12 8.19 0 11.31L126.06 256 2.34 379.71c-3.12 3.12-3.12 8.19 0 11.31l22.63 22.63c3.12 3.12 8.19 3.12 11.31 0L160 289.94 262.56 392.5l21.15 21.15c3.12 3.12 8.19 3.12 11.31 0l22.63-22.63c3.12-3.12 3.12-8.19 0-11.31L193.94 256z">
+</path>
+</svg>
+</div>
+</a>
+<a data-ev-action="[Click] Kress' New &quot;Road Maps for the Gospel of John&quot;" data-ev-cat="New-Items" data-ev-label="New Items Widget [Click] Kress' New &quot;Road Maps for the Gospel of John&quot;" href="/commentaries/kress/"><img alt="Image 1: Kress' New &quot;Road Maps for the Gospel of John&quot;" src="/assets-v3/images/new-items/kress-john_home_378x191.jpg" title="Kress' New &quot;Road Maps for the Gospel of John&quot;"/></a>
+<a data-ev-cat="offsiteLink" href="https://www.kressbiblical.com/" target="_blank">Kress Biblical Resources</a>
+<a href="/commentaries/kress/">author page</a>
+<a data-ev-cat="offsiteLink" href="https://www.kressbiblical.com/bookshop/" target="_blank">their online store</a>
+<a href="/">our website</a>
+<a class="nia" data-ev-action="[Read More] Several New International Translations Added to BLB Website!" data-ev-cat="New-Items" data-ev-label="New Items Widget [Read More] Several New International Translations Added to BLB Website!" rel="new02">Read
+										More</a>
+<a data-ev-action="[Click] Gospel of John Teaching Series from Pastor Tony Clark" data-ev-cat="New-Items" data-ev-label="New Items Widget [Click] Gospel of John Teaching Series from Pastor Tony Clark" href="/audio_video/clark_tony/john/john.cfm"><img alt="Image 3: Gospel of John Teaching Series from Pastor Tony Clark" src="/assets-v3/images/new-items/tony-clark-john_home_378x191.jpg" title="Gospel of John Teaching Series from Pastor Tony Clark"/></a>
+<a href="/audio_video/clark_tony/john/john.cfm">this
+											series on BLB</a>
+<a href="/audio_video/clark_tony/">author page</a>
+<a class="nia" data-ev-action="[Read More] Gospel of John Teaching Series from Pastor Tony Clark" data-ev-cat="New-Items" data-ev-label="New Items Widget [Read More] Gospel of John Teaching Series from Pastor Tony Clark" rel="new03">Read
+										More</a>
+<a data-ev-action="[Click] New Resources from John Bunyan" data-ev-cat="New-Items" data-ev-label="New Items Widget [Click] New Resources from John Bunyan" href="/commentaries/bunyan_john/"><img alt="Image 4: New Resources from John Bunyan" src="/assets-v3/images/new-items/bunyan-works_home_378x191.jpg" title="New Resources from John Bunyan"/></a>
+<a href="/comm/bunyan_john/come-and-welcome-to-jesus-christ/toc.cfm">Table of
+											Contents</a>
+<a href="/comm/bunyan_john/come-and-welcome-to-jesus-christ/01.cfm">introduction</a>
+<a href="/commentaries/bunyan_john/">author page</a>
+<a class="nia" data-ev-action="[Read More] New Resources from John Bunyan" data-ev-cat="New-Items" data-ev-label="New Items Widget [Read More] New Resources from John Bunyan" rel="new04">Read
+										More</a>
+<a data-ev-action="[Archives]" data-ev-cat="New-Items" data-ev-label="New Items [Archives] User Clicked to open the New Items Archives" href="/newItemsArchive.cfm#startHere">Visit
+										the Archives</a>
+<a href="https://www.blueletterbible.org/apps-tools.cfm" target="_blank">
+													BLB Mobile Apps
+												</a>
+<a href="https://www.blueletterbible.org" target="_blank">
+													BLB Website
+												</a>
+<a href="https://www.blbclassic.org" target="_blank">
+													BLB Classic Website
+												</a>
+<a href="https://study.bible/" target="_blank">
+													BLB Institute
+												</a>
+<a href="https://scripturemark.org" target="_blank">
+													ScriptureMark
+												</a>
+<a href="https://blogs.blueletterbible.org" target="_blank">
+													Blogs
+												</a>
+<a data-ev-action="Active Users" data-ev-cat="Widget" data-ev-label="Donate: Spread the Word" href="/donate/index.cfm?cid=donate-userswidget" target="_blank">
+<button>Help Spread <u>the Word!</u></button>
+</a>
+<a href="/about/partnership.cfm">Partner with the BLB</a>
+<a href="/about/partnership.cfm#disclaimer" style="font-size:0.9em;">(Disclaimer)</a>
+<a href="/devotionals/promises/">today's reflection</a>
+<a data-ev-cat="offsiteLink" href="https://www.facebook.com/blueletterbible" target="_blank"><img alt="Connect on Facebook" height="35" src="/assets-v3/images/svg/social/fb-icon_a.svg" width="35"/></a>
+<a data-ev-cat="offsiteLink" href="https://x.com/blueletterbible/" target="_blank"><img alt="Connect on X" height="29" src="/assets-v3/images/svg/social/x-icon_a.svg" width="35"/></a>
+<a data-ev-cat="offsiteLink" href="https://www.instagram.com/blueletterbible/" target="_blank"><img alt="Connect on Instagram" height="35" src="/assets-v3/images/svg/social/instagram-icon_a.svg" width="35"/></a>
+<a data-ev-cat="offsiteLink" href="https://www.youtube.com/channel/UCGF1fDwSyXL0VqtiEzLeB5g" target="_blank"><img alt="Connect on YouTube" height="25" src="/assets-v3/images/svg/social/youtube-icon_a.svg" width="35"/></a>
+<a class="widget-btn" data-ev-cat="offsiteLink" href="https://blueletterbible.us5.list-manage.com/subscribe?u=a5701bfb08b97f65b3aff1e37&amp;id=770af9addf" target="_blank">Subscribe to our
+										Newsletter</a>
+<a href="/help/videoHelps.cfm#section1">1. Quickstart Guide</a>
+<a href="/help/videoHelps.cfm#section2">2. Essentials - The Bible</a>
+<a href="/help/videoHelps.cfm#section3">3. Essentials - Word Searching</a>
+<a href="/help/videoHelps.cfm#section4">4. Customization</a>
+<a href="/help/videoHelps.cfm#section5">5. Advanced BLB</a>
+<a href="/about/partnership.cfm">Partner with the BLB</a>
+<a href="/about/partnership.cfm#disclaimer" style="font-size:0.9em;">(Disclaimer)</a>
+<a href="/kjv/genesis/1/">King James Version</a>
+<a href="/nkjv/genesis/1/">New King James Version</a>
+<a href="/nlt/genesis/1/">New Living Translation</a>
+<a href="/niv/genesis/1/">New International Version</a>
+<a href="/esv/genesis/1/">English Standard Version</a>
+<a href="/csb/genesis/1/">Christian Standard Bible</a>
+<a href="/nasb20/genesis/1/">New American Standard Bible 2020</a>
+<a href="/nasb95/genesis/1/">New American Standard Bible 1995</a>
+<a href="/lsb/genesis/1/">Legacy Standard Bible 2021</a>
+<a href="/net/genesis/1/">New English Translation</a>
+<a href="/rsv/genesis/1/">Revised Standard Version</a>
+<a href="/asv/genesis/1/">American Standard Version</a>
+<a href="/ylt/genesis/1/">Young's Literal Translation</a>
+<a href="/dby/genesis/1/">Darby Translation</a>
+<a href="/web/genesis/1/">Webster's Bible</a>
+<a href="/hnv/genesis/1/">Hebrew Names Version</a>
+<a href="/rvr60/genesis/1/">Reina-Valera 1960</a>
+<a href="/vul/genesis/1/">Latin Vulgate</a>
+<a href="/wlc/genesis/1/">Westminster Leningrad Codex</a>
+<a href="/lxx/genesis/1/">Septuagint</a>
+<a href="/mgnt/matthew/1/">Morphological Greek New Testament</a>
+<a href="/tr/matthew/1/">Textus Receptus</a>
+<a href="/search.cfm#srchBible">Bible Search</a>
+<a href="/search.cfm#srchMulti">Multiverse Retrieval</a>
+<a href="/search.cfm#srchLexi">LexiConc Search</a>
+<a href="/search.cfm#srchFAQ">Theological FAQ Search</a>
+<a href="/search/Dictionary/viewEntries.cfm">Browse Dictionary Topics</a>
+<a href="/commentaries/">Text Commentaries</a>
+<a href="/audio_video/">Audio &amp; Video Commentaries</a>
+<a href="/study/harmony/index.cfm">Harmony of the Gospels</a>
+<a href="/search/Dictionary/viewEntries.cfm">Encyclopedias / Dictionaries</a>
+<a href="/resources/study-notes.cfm">Bible Study Notes</a>
+<a href="/resources/prefaces.cfm">Prefaces</a>
+<a href="/resources/intros.cfm">Introductions to the Bible</a>
+<a href="/resources/charts.cfm">Charts and Outlines</a>
+<a href="/resources/timelines.cfm">Timelines</a>
+<a href="/images/">Maps / Images</a>
+<a href="/resources/indexes.cfm">Topical Indexes</a>
+<a href="/tools/interlinear/tr/jhn/1/1-51/">Inline Interlinear</a>
+<a href="/resources/tools/index.cfm">Language Tools</a>
+<a href="/resources/lexical/index.cfm">Lexical Resources</a>
+<a href="/resources/grammars.cfm">Grammars</a>
+<a href="/resources/concordances/index.cfm">Concordances</a>
+<a href="/resources/morphology/index.cfm">Morphology</a>
+<a href="/resources/articles.cfm">Articles / Books</a>
+<a href="/wm/">Women's Resources</a>
+<a href="/faq/don_stewart/">Don Stewart FAQs</a>
+<a href="/faq/">BLB Theological FAQs</a>
+<a href="/resources/missions.cfm">Missions Resources</a>
+<a href="/resources/cults.cfm">Cult Resources</a>
+<a href="/study/ccc/index.cfm">Creeds, Catechisms, and Confessions</a>
+<a href="/study/hta/">Hitchcock's Topical Analysis</a>
+<a href="/study/thompson/specread.cfm">Thompson's Chain Reference</a>
+<a href="/study/misc/name_god.cfm">The Names of God</a>
+<a href="/study/misc/ogiwa.cfm">Our God Isï¿½We Areï¿½</a>
+<a href="/study/misc/putoffon.cfm">Put Offï¿½Put Onï¿½</a>
+<a href="/resources/media.cfm">Media</a>
+<a href="/resources/music.cfm">Music</a>
+<a href="/resources/livestreams/">Livestreams</a>
+<a href="/help/videoHelps.cfm">Video Tutorials</a>
+<a href="/help/">Help Tutorials</a>
+<a href="/contact/contact_iapp.cfm">Apple iOS App Support</a>
+<a href="/contact/contact_android.cfm">Android App Support</a>
+<a href="https://study.bible/help">BLB Institute Support</a>
+<a href="/contact/contact_donor.cfm">Donor Support</a>
+<a href="/contact/contact_pc.cfm">Website Questions</a>
+<a href="/contact/contact_gen.cfm">General Questions</a>
+<a href="/contact/contact_theo.cfm">Theological Questions</a>
+<a href="/tools/redirect.cfm?Site=https%3A%2F%2Fitunes%2Eapple%2Ecom%2Fus%2Fapp%2Fblue%2Dletter%2Dbible%2Fid365547505%3Fmt%3D8" target="_blank">Apple iOS App</a>
+<a href="/tools/redirect.cfm?Site=https%3A%2F%2Fplay%2Egoogle%2Ecom%2Fstore%2Fapps%2Fdetails%3Fid%3Dorg%2Eblueletterbible%2Eblb" target="_blank">Android App</a>
+<a href="/smark/">ScriptureMark</a>
+<a href="/webtools/BLB_ScriptTagger.cfm">BLB ScriptTagger</a>
+<a href="/webtools/BLB_websearch.cfm">BLB Web Search Tool</a>
+<a href="/cd/info.cfm">BLB CD</a>
+<a href="/products/digital.cfm">Digital Books</a>
+<a href="/products/videodownloads.cfm">Digital Videos</a>
+<a href="/devotionals/">Email Devotional Sign-Up</a>
+<a href="/devotionals/promises/">BLB Daily Promises</a>
+<a href="/devotionals/dbdbg/view.cfm">Day by Day by Grace</a>
+<a href="/devotionals/me/">Morning and Evening</a>
+<a href="/dailyreading/">Daily Bible Reading Plan</a>
+<a href="https://study.bible/" target="_blank">BLB Institute <i>(Free)</i></a>
+<a href="https://blogs.blueletterbible.org/" target="_blank">BLB Blog</a>
+<a href="http://sowingcircle.org">Sowing Circle</a>
+<a href="/ministry/links.cfm">Co-Laboring Ministries</a>
+<a href="/about/about.cfm">About BLB</a>
+<a href="/about/faith.cfm">Statement of Faith</a>
+<a href="/about/history.cfm">History of BLB</a>
+<a href="/about/faqs.cfm">Ministry FAQs</a>
+<a href="/livemap/">LiveMap</a>
+<a href="/newsletter/">Newsletter</a>
+<a href="/about/partnership.cfm">Advertise with Us</a>
+<a href="/about/permissions.cfm">Permissions</a>
+<a href="/about/yourstory.cfm">Share Your BLB Story</a>
+<a href="/contact/" style="margin-bottom: 5px">Contact</a>
+<a href="/donate/" target="_blank">Credit Card</a>
+<a href="/donate/" target="_blank">PayPal</a>
+<a href="/donate/" target="_blank">Venmo</a>
+<a href="/donate/mail.cfm">Mail-In</a>
+<a href="/donate/contribute.cfm">All Gift Options</a>
+<a href="https://account.raisedonors.com/blueletterbible/login" target="_blank">Donor Portal
+							Login</a>
+<a href="/donorinfo/">Our Funding Model</a>
+<a href="/contact/contact_donor.cfm">Support &amp; FAQs</a>
+<a data-ev-cat="offsiteLink" href="https://www.ecfa.org/" target="_blank"><img alt="ECFA Accredited Logo" class="float-center ecfa-seal" height="75" src="/assets-v3/images/svg/ecfa-logo.svg" width="75"/></a>
+<a data-ev-cat="offsiteLink" href="https://www.guidestar.org/profile/47-2951572" target="_blank"><img alt="Candid Platinum Seal" class="float-center ecfa-seal" height="75" src="/assets-v3/images/svg/candid_platiunum.svg" width="75"/></a>
+<a class="hide-for-medium mobile-footer__button button btn-hide" href="/donate/">Donate</a>
+<a class="hide-for-medium mobile-footer__button button btn-hide" href="/contact/">Contact</a>
+<a href="https://study.bible/" target="_blank">BLB Institute</a>
+<a href="http://blogs.blb.org/blb/">BLB Blog</a>
+<a href="/newsletter/">Newsletters</a>
+<a data-ev-cat="offsiteLink" href="http://www.facebook.com/blueletterbible/" target="_blank">
+<img alt="facebook" class="social-footer-svg" height="35" src="/assets-v3/images/svg/social/fb-icon_wte_a.svg" width="35"/>
+</a>
+<a data-ev-cat="offsiteLink" href="https://www.instagram.com/blueletterbible/" target="_blank">
+<img alt="instagram" class="social-footer-svg" height="35" src="/assets-v3/images/svg/social/instagram-icon_wte_a.svg" width="35"/>
+</a>
+<a data-ev-cat="offsiteLink" href="https://x.com/blueletterbible/" target="_blank">
+<img alt="x" class="social-footer-svg" height="35" src="/assets-v3/images/svg/social/x-icon_wte_a.svg" width="35"/>
+</a>
+<a data-ev-cat="offsiteLink" href="https://www.youtube.com/channel/UCGF1fDwSyXL0VqtiEzLeB5g" target="_blank">
+<img alt="youtube" class="social-footer-svg" height="35" src="/assets-v3/images/svg/social/youtube-icon_wte_a.svg" width="35"/>
+</a>
+<a class="show-for-medium hide-for-large footer-btn" href="/donate/">Donate</a>
+<a class="show-for-medium hide-for-large footer-btn" href="/contact/">Contact</a>
+<a href="https://www.blueletterbible.org/">Blue Letter Bible</a>
+<a href="/policies/privacy.cfm">Privacy Policy</a>
+<a><img alt="Facebook" id="shareFace" src="/assets-v3/images/svg/social/fb-icon_a.svg" width="30"/></a>
+<a><img alt="X" id="shareX" src="/assets-v3/images/svg/social/x-icon_a.svg" width="30"/></a>
+<a><img alt="LinkedIn" id="shareLinkedin" src="/assets-v3/images/svg/social/linkedin-icon_a.svg" width="30"/></a>
+<a><img alt="Tumblr" id="shareTumblr" src="/assets-v3/images/svg/social/tumblr-icon_a.svg" width="30"/></a>
+<a><img alt="BLB on FaceBook" id="followFace" src="/assets-v3/images/svg/social/fb-icon_a.svg" width="30"/></a>
+<a><img alt="BLB on X" id="followX" src="/assets-v3/images/svg/social/x-icon_a.svg" width="30"/></a>
+<a><img alt="BLB on Instagram" id="followInstagram" src="/assets-v3/images/svg/social/instagram-icon_a.svg" width="30"/></a>
+<a><img alt="BLB on Youtube" id="followYouTube" src="/assets-v3/images/svg/social/youtube-icon_a.svg" width="30"/></a>
+<a class="close" onclick="BLB.Video.closeVideo();"><img alt="Close Video" src="/assets-v3/lightbox/images/close.png"/></a>
+<a class="login-form__help" rel="helps.login"> [?]</a>
+<a id="forgotMyPasswdA">Did you forget your password?</a>
+<a id="registerMeA">Register a new BLB account</a>
+<a rel="helps.register"> [?]</a>
+<a id="cancelMeA">← Login to Your Account</a>
+<a class="button large donate-button">Donate</a>
+<a>Remind Me</a>
+<a>Dismiss</a>
+<a href="/policies/privacy.cfm">Privacy Policy</a>
+<a class="back-btn">
+<svg class="left-arrow" viewbox="0 0 6.06 10.71" xmlns="http://www.w3.org/2000/svg">
+<g data-name="Layer 2">
+<g data-name="Layer 1">
+<polygon class="cls-1" points="5.35 10.71 0 5.35 5.35 0 6.06 0.71 1.41 5.35 6.06 10 5.35 10.71"></polygon>
+</g>
+</g>
+</svg>
+					Back</a>
+<a class="books-cell ot-cell"> 1 </a>
